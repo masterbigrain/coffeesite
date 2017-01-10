@@ -1,0 +1,182 @@
+@media (min-width: 992px) and (max-width: 1169px) {
+.add-content h2 {
+  font-size: 40px;
+}
+    
+}
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.navbar-header a.navbar-brand {
+  padding: 25px 0;
+}
+
+.title2 {
+  font-size: 60px;
+}
+.title3 {
+  font-size: 23px;
+}
+.about-self {
+  padding:0;
+}
+.single-about > h4 {
+  font-size: 16px;
+}
+.self-head > p {
+  font-size: 14px;
+}
+.skills-idea li {
+  float: left;
+  margin-right: 20px;
+}
+.skills-idea ul li a i {
+  font-size: 20px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 8px 20px 0;
+  width: 40px;
+}
+ .add-btn {
+  padding: 16px 30px;
+}
+.add-content h2 {
+  font-size: 29px;
+}
+	
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.container {width:300px}
+
+.banner-mar {
+  margin-bottom: 0;
+}
+.logo {
+  height: inherit;
+  left: 20;
+  padding: 0;
+  position: absolute;
+  top: 8px;
+  z-index: 999999;
+}
+.logo a {
+  padding: 0;
+}
+.section-head h3 {
+  font-size: 34px;
+}
+.title1 {
+    font-size: 20px;
+}
+.title2 {
+  font-size: 28px;
+}
+.title3 {
+  font-size: 13px;
+}
+.header-bottom .cd-headline b {
+  font-size: 15px;
+}
+.self-img > a {
+  margin-bottom: 30px;
+}
+.single-about {
+  padding: 0;
+  margin-bottom: 30px;
+}
+.left-contact {
+  margin-bottom: 30px;
+}
+.add-content h2 {
+  font-size: 23px;
+  text-align: center;
+}
+.add-content {
+  margin-bottom: 30px;
+}
+.contact-form {
+  margin-bottom: 30px;
+}
+.portfolio-content .single-awesome-project,.portfolio-content.portfolio-2 .single-awesome-project,.portfolio-content.portfolio-3 .single-awesome-project,.portfolio-content.masonry-portfolio .single-awesome-project{
+  width: 100%;
+}
+.text-right {
+  text-align: center;
+}
+.banner-box {
+  margin-bottom: 50px;
+}
+.last-banner{
+	margin-bottom:0px;
+}
+.skills-idea.contact-icons ul li a {
+  font-size: 14px;
+}
+.main-menu .nav.navbar-nav{
+  background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+  margin-top: 0;
+}
+.main-menu ul.navbar-nav li a {
+  padding: 12px 15px;
+}
+.stick .navbar-header a.navbar-brand {
+  display: inline-block;
+  height: 70px;
+  padding: 20px 0;
+}
+.stick .navbar-default .navbar-toggle {
+  padding: 20px 0;
+}
+.main-menu ul.navbar-nav li {
+  display: block;
+}
+.stick .main-menu ul.nav > li > a {
+  padding: 10px 15px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #333;
+}
+.main-menu ul.navbar-nav li.active a::after {
+  border:none;
+}
+.left-side-icons ul li {
+  margin-right: 1px;
+}
+.single-member {
+  margin-bottom: 30px;
+}
+.pri_table_list {
+  margin-bottom: 30px;
+}
+.mes-title2 {
+  font-size: 19px;
+}
+	
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ .title3 {
+  font-size: 22px;
+}
+ .title2 {
+  font-size: 46px;
+  margin-bottom: 5px;
+}
+.header-bottom .cd-headline b {
+  font-size: 24px;
+}
+.add-content h2 {
+  font-size: 35px;
+  text-align: center;
+}
+.skills-idea.contact-icons ul li a {
+  font-size: 18px;
+}
+.mes-title2 {
+  font-size: 34px;
+}
+
+	
+}
+ 
